@@ -1,0 +1,4 @@
+name: ArtBreakLuckMes
+version: ${project.version}
+main: com.meteor.artbreakluckmes.ArtBreakLuckMes
+authors: [meteor]
